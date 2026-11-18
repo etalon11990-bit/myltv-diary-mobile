@@ -3,3 +3,8 @@
 #preview{touch-action:none}#export-result video{display:block;width:100%;max-height:65svh;margin:16px 0;background:#000}#export-result a{display:block;overflow-wrap:anywhere}nav{gap:0;padding-left:4px;padding-right:4px}nav button{font-size:11px;padding:10px 4px}input[type=color]{min-height:44px;width:100%;border:0}button{overflow-wrap:anywhere}
 
 #backup-result a{display:block;padding:14px 8px;color:#ffb3c4;overflow-wrap:anywhere}
+
+#cancel{position:fixed;bottom:calc(76px + env(safe-area-inset-bottom));right:16px;z-index:9;background:#941c31;min-height:48px}input[type=range]{height:44px}nav button{min-height:48px}
+
+.preview-wrap{width:min(100%,calc(51svh * 9 / 16));height:auto;max-height:none} @media(min-width:700px){.preview-wrap{width:100%;max-width:310px}}
+.preview-wrap{box-sizing:content-box}
