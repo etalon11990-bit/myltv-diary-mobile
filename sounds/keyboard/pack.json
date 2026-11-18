@@ -1,0 +1,323 @@
+{
+  "version": 1,
+  "name": "Cherry KC 1000 + записанные специальные клавиши",
+  "recorded": true,
+  "license": "CC0-1.0",
+  "rights_statement": "CC0 подтверждена на страницах авторов OpenGameArt и Freesound. См. SOURCES.md и локальные копии страниц.",
+  "processing": "Mono 48k PCM16; highpass 65 Hz, lowpass 3200 Hz, onset trim, gentle fades and leveling; no synthesis or pitch shift.",
+  "samples": [
+    {
+      "id": "key-001",
+      "kind": "key",
+      "file": "key-001.wav",
+      "sha256": "555af7ea4b5d0012678240f261dc3d9b1c23492932f2a46eb5ac26bc2e247185",
+      "source": "unicaegames: Single Keys/keypress-001.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-002",
+      "kind": "key",
+      "file": "key-002.wav",
+      "sha256": "26a4063daa742d8749d9b3e3720b48e17275a4a4d9822fdb5b6dc9cf799be0ce",
+      "source": "unicaegames: Single Keys/keypress-002.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-003",
+      "kind": "key",
+      "file": "key-003.wav",
+      "sha256": "b1c7346bc509c0e1f222ee9986dba2fedd6371473757d0cce777ee564ebe6106",
+      "source": "unicaegames: Single Keys/keypress-003.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-004",
+      "kind": "key",
+      "file": "key-004.wav",
+      "sha256": "e32f021e01bbc4a1891794e84070917e7f35a95bb5be086a6dcbad279d13ead0",
+      "source": "unicaegames: Single Keys/keypress-004.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-005",
+      "kind": "key",
+      "file": "key-005.wav",
+      "sha256": "9b573c3b848430a75ad70c2c4ad9919655e9340d1eb38f102f5c10da9860972b",
+      "source": "unicaegames: Single Keys/keypress-005.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-006",
+      "kind": "key",
+      "file": "key-006.wav",
+      "sha256": "8b5e9bb72c5e65fb49b7126bb4bd49106387a739d4bdca08a45f89f2ae1f176b",
+      "source": "unicaegames: Single Keys/keypress-006.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-007",
+      "kind": "key",
+      "file": "key-007.wav",
+      "sha256": "7719f3f4da782bc4b8dab7e17c1e51c34d042402aab9b6a8656743a8a629ce99",
+      "source": "unicaegames: Single Keys/keypress-007.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-008",
+      "kind": "key",
+      "file": "key-008.wav",
+      "sha256": "647762cdefd9c6194562e49da094c8e7a78704145fe5bfcaf500f5a5b4171797",
+      "source": "unicaegames: Single Keys/keypress-008.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-009",
+      "kind": "key",
+      "file": "key-009.wav",
+      "sha256": "2dda752ce9cd4cc4a35cd86d7d1afc49b507e01f3d6b4b0f05dfa735e871fd8c",
+      "source": "unicaegames: Single Keys/keypress-009.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-010",
+      "kind": "key",
+      "file": "key-010.wav",
+      "sha256": "350dae6e3d0dfbfea76d66eb34648bcc7b38f8ff4ffc4ae12a1a3d4558ecadd8",
+      "source": "unicaegames: Single Keys/keypress-010.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-011",
+      "kind": "key",
+      "file": "key-011.wav",
+      "sha256": "bbe18b8194c9902e7696ff886f4f72ced68ba5f0cbdd335f1c2b848434285222",
+      "source": "unicaegames: Single Keys/keypress-011.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-012",
+      "kind": "key",
+      "file": "key-012.wav",
+      "sha256": "413139cfd5b61485f5b8e9e39f8397ac8561d0d7b324b3651d960121d5a7dd30",
+      "source": "unicaegames: Single Keys/keypress-012.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-013",
+      "kind": "key",
+      "file": "key-013.wav",
+      "sha256": "81ede0e630b6f835c67736eb41ee2356d5d73363469a6e1ab988bfe3a7696a0b",
+      "source": "unicaegames: Single Keys/keypress-013.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-014",
+      "kind": "key",
+      "file": "key-014.wav",
+      "sha256": "3b0776e0a46e80329a27e79f2af3daa2e5856ce6b24a72f8a782d5a0a833cfda",
+      "source": "unicaegames: Single Keys/keypress-014.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-015",
+      "kind": "key",
+      "file": "key-015.wav",
+      "sha256": "96853b66ad3ebf4abdc469e1188ebc56f6a4ca8f12eaa6b989f6af387ebe1933",
+      "source": "unicaegames: Single Keys/keypress-015.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-016",
+      "kind": "key",
+      "file": "key-016.wav",
+      "sha256": "fa63d9ca11da08a6b5730af8582aeb713bc0ae338ecb819696a4453f0eb8f725",
+      "source": "unicaegames: Single Keys/keypress-016.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-017",
+      "kind": "key",
+      "file": "key-017.wav",
+      "sha256": "160514b895065786ca475ed27fd8c1467653dca54242a3f5cb966f2185a13aa6",
+      "source": "unicaegames: Single Keys/keypress-017.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-018",
+      "kind": "key",
+      "file": "key-018.wav",
+      "sha256": "fdf09739a771e2a6b9c0399580f29c46c07f009aa762b8cd48fdf5b49f464baf",
+      "source": "unicaegames: Single Keys/keypress-018.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-019",
+      "kind": "key",
+      "file": "key-019.wav",
+      "sha256": "a91586c2b9a59843160f3a38cf6b5229bf071eeab558bd84ce728aa9168d577e",
+      "source": "unicaegames: Single Keys/keypress-019.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-020",
+      "kind": "key",
+      "file": "key-020.wav",
+      "sha256": "893dd5e978b897fc2d648defac8a51d7ed80ca1920b4b50491477f1d450c4324",
+      "source": "unicaegames: Single Keys/keypress-020.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-021",
+      "kind": "key",
+      "file": "key-021.wav",
+      "sha256": "8eb987ce7b238d9ef1e72e337f41fba888bafe71fab29f2891f8e57063ef7f3c",
+      "source": "unicaegames: Single Keys/keypress-021.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-022",
+      "kind": "key",
+      "file": "key-022.wav",
+      "sha256": "4074003bc2bf3b72aa7fc1c0eb57f6f876235158d7a2672c4b5fbe58297cf407",
+      "source": "unicaegames: Single Keys/keypress-022.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-023",
+      "kind": "key",
+      "file": "key-023.wav",
+      "sha256": "069f37f2056524dce5ff0d1afc1cf00e1037ba73826e9743f580884c8f560354",
+      "source": "unicaegames: Single Keys/keypress-023.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-024",
+      "kind": "key",
+      "file": "key-024.wav",
+      "sha256": "f6b2bcc4d75ef32973dedfd993e9171d5a8a4606f041a022441ade1ed147e85c",
+      "source": "unicaegames: Single Keys/keypress-024.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-025",
+      "kind": "key",
+      "file": "key-025.wav",
+      "sha256": "f8b7fa2eddebe3575c66d7ccdb71a09e003fe2ca97f44ac6b4456e1c3d8961e2",
+      "source": "unicaegames: Single Keys/keypress-025.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-026",
+      "kind": "key",
+      "file": "key-026.wav",
+      "sha256": "e983eaa5adea85fe35ea7b0b4512321e5981df8a7df7dfa7698714157e3010cd",
+      "source": "unicaegames: Single Keys/keypress-026.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-027",
+      "kind": "key",
+      "file": "key-027.wav",
+      "sha256": "00e6864095aba5939180d65facbfde1f9dc2103389a9279766080a5d1815420d",
+      "source": "unicaegames: Single Keys/keypress-027.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-028",
+      "kind": "key",
+      "file": "key-028.wav",
+      "sha256": "f566eedabee3c66a61d23eeaa2a3cef1c82019a3d9c82e191f393d16d0b6195d",
+      "source": "unicaegames: Single Keys/keypress-028.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-029",
+      "kind": "key",
+      "file": "key-029.wav",
+      "sha256": "545f56131fbc7782bdffc39761e8efe64a1402c7f1872adc2cf00a918a6cf9b2",
+      "source": "unicaegames: Single Keys/keypress-029.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-030",
+      "kind": "key",
+      "file": "key-030.wav",
+      "sha256": "64ca8e25d74ab3604abf0df839e55e0b13fff8c697c2e208eb970fd4a4a788aa",
+      "source": "unicaegames: Single Keys/keypress-030.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-031",
+      "kind": "key",
+      "file": "key-031.wav",
+      "sha256": "6c26921da6c8fb374586878b15b9c7d84d0d863604b4a00be87b90e3356f0023",
+      "source": "unicaegames: Single Keys/keypress-031.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "key-032",
+      "kind": "key",
+      "file": "key-032.wav",
+      "sha256": "95e3c83a334c80adea0a8b6612442655ef500adfce5e52abe8b832b986c6759c",
+      "source": "unicaegames: Single Keys/keypress-032.wav",
+      "source_start_seconds": 0
+    },
+    {
+      "id": "space-001",
+      "kind": "space",
+      "file": "space-001.wav",
+      "sha256": "456571c6eca7334f5723c5705f1f054778e74302fa54cc5d2e03b7ba31df3f12",
+      "source": "https://freesound.org/people/JanZavadil/sounds/796112/",
+      "source_start_seconds": 1.675
+    },
+    {
+      "id": "space-002",
+      "kind": "space",
+      "file": "space-002.wav",
+      "sha256": "4d2f8da1d6f2a1905547d5585143037018ddb72e0a1133eaf107f23fe4f9de50",
+      "source": "https://freesound.org/people/JanZavadil/sounds/796112/",
+      "source_start_seconds": 2.825
+    },
+    {
+      "id": "space-003",
+      "kind": "space",
+      "file": "space-003.wav",
+      "sha256": "c4d1b7a2fd4788ee325bb44e18d1a3a476837e7986b306766655f7b730317b36",
+      "source": "https://freesound.org/people/JanZavadil/sounds/796112/",
+      "source_start_seconds": 4.15
+    },
+    {
+      "id": "enter-001",
+      "kind": "enter",
+      "file": "enter-001.wav",
+      "sha256": "27a58233c3f7ab8a10cc07676c1609d085cc5b18f92a60e6ce6c3c0a5c85cf2e",
+      "source": "https://freesound.org/people/uEffects/sounds/180966/",
+      "source_start_seconds": 0.0
+    },
+    {
+      "id": "backspace-001",
+      "kind": "backspace",
+      "file": "backspace-001.wav",
+      "sha256": "2c3fe094d002bb4d82d2ffada16a9caf2808e9cb9330c632050095898f527bae",
+      "source": "https://freesound.org/people/qubodup/sounds/873836/",
+      "source_start_seconds": 2.185
+    },
+    {
+      "id": "backspace-002",
+      "kind": "backspace",
+      "file": "backspace-002.wav",
+      "sha256": "7ecedb7a9679fe5d19645f09833e50e77999b7e8f9cf5b0820458fcdb29ee2db",
+      "source": "https://freesound.org/people/qubodup/sounds/873836/",
+      "source_start_seconds": 2.45
+    },
+    {
+      "id": "backspace-003",
+      "kind": "backspace",
+      "file": "backspace-003.wav",
+      "sha256": "796bbd40b5238061006d5786ec37db846bb6a2bd0000773b7d487128ffa25669",
+      "source": "https://freesound.org/people/qubodup/sounds/873836/",
+      "source_start_seconds": 2.535
+    }
+  ],
+  "source_archive_sha256": "96507fc9aeec34cdff0e7c558dabb96afec4156c06532a38d7006b9acdf31f06"
+}
